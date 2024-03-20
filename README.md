@@ -1,6 +1,6 @@
 # Animint2-gallery
 
-All the files can be found in the gh-pages branch. The files are organized as follows:
+All the files can be found in the  `gh-pages` branch. The files are organized as follows:
 
 - `repos.txt` contains the list of repositories to be included in the gallery.
 - `index.Rmd` is the Rmarkdown file that generates the index.html file.
