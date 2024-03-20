@@ -1,5 +1,0 @@
-caijun/AnimintTest
-lazycipher/Tests-for-Animated-interactive-ggplots
-shubhammittal588/Animated_interactive_ggplots_GSoC_Tasks
-Vatsal-Rajput/Animint2Test
-Tushar98644/Animint2_Tests
